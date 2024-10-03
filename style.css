@@ -597,6 +597,6 @@ option{
 }
 @media (max-height: 500px){
     .main{
-        height: 600px;
+        height:350px;
     }
 }
