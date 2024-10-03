@@ -595,3 +595,8 @@ option{
         padding: 10px 16px;
     }
 }
+@media (max-height: 500px){
+    .main{
+        height: 600px;
+    }
+}
